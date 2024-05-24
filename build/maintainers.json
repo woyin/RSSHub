@@ -1058,6 +1058,9 @@
     "TonyRL"
   ],
   "/cfmmc/:id{.+}?": [],
+  "/cfr/:category/:subCategory?": [
+    "KarasuShin"
+  ],
   "/cgtn/podcast/:category/:id": [
     "5upernova-heng"
   ],
@@ -2997,6 +3000,9 @@
   ],
   "/imagemagick/changelog": [
     "nczitzk"
+  ],
+  "/imdb/chart/:chart?": [
+    "TonyRL"
   ],
   "/imiker/ask/jinghua": [
     "nczitzk"
