@@ -1431,6 +1431,9 @@
   "/damai/activity/:city/:category/:subcategory/:keyword?": [
     "hoilc"
   ],
+  "/dangdang/notice/:type?": [
+    "353325487"
+  ],
   "/dapenti/subject/:id": [
     "xyqfer"
   ],
@@ -1502,6 +1505,9 @@
   ],
   "/devolverdigital/blog": [
     "XXY233"
+  ],
+  "/dewu/declaration/:categoryId?": [
+    "blade0910"
   ],
   "/dgjyw*": [],
   "/dhu/jiaowu/news/:type?": [
@@ -3246,6 +3252,9 @@
   ],
   "/jingzhengu/news": [
     "TonyRL"
+  ],
+  "/jinritemai/docs/:dirId?": [
+    "blade0910"
   ],
   "/jinse/:category?": [
     "nczitzk"
@@ -5423,6 +5432,9 @@
   ],
   "/steam/search/:params": [
     "moppman"
+  ],
+  "/steam/sharefile-changelog/:sharefileID/:routeParams?": [
+    "NyaaaDoge"
   ],
   "/steam/workshopsearch/:appid?/:routeParams?": [
     "NyaaaDoge"
